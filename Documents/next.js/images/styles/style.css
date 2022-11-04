@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+.kj {
+    @apply rounded-md w-full bg-blue-700 px-2 text-white font-bold
+
+}
+
+@tailwind utilities;
